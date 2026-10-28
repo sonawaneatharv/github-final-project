@@ -36,3 +36,5 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute 
 ## Code of Conduct
 
 Please read [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for details on our code of conduct.
+
+<!-- typo fix: corrected project description formatting -->
