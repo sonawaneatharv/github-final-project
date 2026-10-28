@@ -34,3 +34,5 @@ echo "----------------------------------------"
 echo "Simple Interest      : $simple_interest"
 echo "Total Amount         : $(echo "scale=2; $principal + $simple_interest" | bc)"
 echo "========================================"
+
+# End of script
